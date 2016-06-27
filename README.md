@@ -11,7 +11,7 @@ TOYOSHIKI Tiny BASIC for LittleBits
 5.時間待ち：WAIT<br>
 6.PRINT命令のエスケープシーケンス対応<br>
 
-Sample1<br>
+example1<br>
 10 PRINT AIN(0)<br>
 20 PRINT AIN(1)<br>
 30 AOUT 0,100<br>
@@ -19,7 +19,7 @@ Sample1<br>
 50 PRINT DIN(0)<br>
 60 DOUT 0,1<br>
 <br>
-Sample2<br>
+example2<br>
 10 A=AIN(0)<br>
 20 AOUT 0,A/4<br>
 30 B=AIN(1)<br>
