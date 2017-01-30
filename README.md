@@ -1,15 +1,15 @@
 TOYOSHIKI Tiny BASIC for LittleBits
 
-����́ATOYOSHIKI Tiny BASIC for Arduino���x�[�X�ɁAlittleBis Arduino Coding Kit �p�ɖ��߂�ǉ��������̂ł��B
+これは、TOYOSHIKI Tiny BASIC for Arduinoをベースに、littleBis Arduino Coding Kit 用に命令を追加したものです。
 
 
-�ǉ��ύX��������<br>
-1.�f�W�^�����́FDIN<br>
-2.�f�W�^���o�́FDOUT<br>
-3.�A�i���O���́FAIN<br>
-4.�A�i���O�o�́FAOUT<br>
-5.���ԑ҂��FWAIT<br>
-6.PRINT���߂̃G�X�P�[�v�V�[�P���X�Ή�<br>
+追加変更した命令<br>
+1.デジタル入力：DIN<br>
+2.デジタル出力：DOUT<br>
+3.アナログ入力：AIN<br>
+4.アナログ出力：AOUT<br>
+5.時間待ち：WAIT<br>
+6.PRINT命令のエスケープシーケンス対応<br>
 
 example1<br>
 10 PRINT AIN(0)<br>
