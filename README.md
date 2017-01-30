@@ -4,11 +4,11 @@ TOYOSHIKI Tiny BASIC for LittleBits
 
 
 追加変更した命令<br>
-1.デジタル入力：DIN<br>
-2.デジタル出力：DOUT<br>
-3.アナログ入力：AIN<br>
-4.アナログ出力：AOUT<br>
-5.時間待ち：WAIT<br>
+1.デジタル入力(入力値 0 or 1)   ：DIN<br>
+2.デジタル出力(出力値 0 or 1)   ：DOUT<br>
+3.アナログ入力(入力値 0 to 1023)：AIN<br>
+4.アナログ出力(出力値 0 to 255) ：AOUT<br>
+5.時間待ち(単位ms)              ：WAIT<br>
 6.PRINT命令のエスケープシーケンス対応<br>
 
 example1<br>
